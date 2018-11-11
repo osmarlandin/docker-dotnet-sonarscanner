@@ -3,7 +3,7 @@ This repository contains `Dockerfile` definitions for an image used for building
 
 ## Supported tags
 
-- `2.1-sdk`
+- [`2.1-sdk`](https://hub.docker.com/r/osmarlandin/dotnet-sonarscanner/tags/)
 
 
 ## How to use it
